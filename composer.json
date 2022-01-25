@@ -1,0 +1,31 @@
+{
+    "name": "rrze/wp-extended",
+    "description": "It extends the RRZE library for WordPress by adding special classes.",
+    "type": "library",
+    "keywords": [
+        "wordpress"
+    ],
+    "homepage": "https://github.com/RRZE-Webteam/rrze-wp-extended",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Rolf v. d. Forst",
+            "email": "rolf.v.d.forst@fau.de",
+            "homepage": "https://www.rrze.fau.de"
+        },
+        {
+            "name": "Benjamin Klemencic",
+            "email": "benjamin.klemencic@fau.de",
+            "homepage": "https://www.rrze.fau.de"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "RRZE\\WP\\EXT\\": "src"
+        }
+    },
+    "lock": false
+}
