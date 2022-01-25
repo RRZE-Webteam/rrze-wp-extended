@@ -1,6 +1,6 @@
-# RRZE WordPress Library
+# RRZE Extended Library for WordPress
 
-It extends the RRZE library for WordPress by adding special classes.
+It extends the RRZE WordPress Library by adding special classes.
 
 ## Installation
 
