@@ -1,6 +1,7 @@
 {
     "name": "rrze/wp-extended",
     "description": "It extends the RRZE library for WordPress by adding special classes.",
+    "version": "0.0.1",
     "type": "library",
     "keywords": [
         "wordpress"
