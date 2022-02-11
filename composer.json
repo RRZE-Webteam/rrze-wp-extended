@@ -1,7 +1,7 @@
 {
     "name": "rrze/wp-extended",
     "description": "It extends the RRZE library for WordPress by adding special classes.",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "type": "library",
     "keywords": [
         "wordpress"
@@ -25,8 +25,9 @@
     },
     "autoload": {
         "psr-4": {
-            "RRZE\\WP\\EXT\\": "src"
-        }
+            "RRZE\\WP\\EXT\\": "src",
+            "RRZE\\WP\\EXT\\TESTNAMESPACE\\": "src/Job.php"
+        },
     },
     "lock": false
 }
